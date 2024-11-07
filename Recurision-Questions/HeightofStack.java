@@ -14,7 +14,7 @@ public class HeightofStack {
 
     public static void main(String[] args) {
         int x = 2;
-        int n = 5;
+        int n = 6;
         int ans = heightOfStack(x, n);
         System.out.println(ans);
     }
